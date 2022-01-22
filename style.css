@@ -1,0 +1,35 @@
+body {
+  font-family: "Maven Pro", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+.fname {
+  color: rgb(56, 161, 223);
+}
+.lname {
+  color: rgb(21, 129, 192);
+}
+section {
+  display: flex;
+}
+.hieght-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.hieght-width img {
+  width: 80%;
+}
+.btn-link {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+.top {
+  background-image: url("media/top-banner.png");
+  background-repeat: no-repeat;
+}
